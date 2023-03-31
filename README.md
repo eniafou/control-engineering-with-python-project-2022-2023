@@ -12,7 +12,7 @@ Your team: group number 11
 
   - Student 2: Soufiane Ait El Aouad ([@eniafou](https://github.com/eniafou))
   
-  - Student 3: Anasse Essalih 
+  - Student 3: Anasse Essalih ([@joyboy129](https://github.com/joyboy129))
 
   - Student 4: Ayyoub Elkassimi
 
