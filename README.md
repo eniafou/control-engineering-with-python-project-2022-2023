@@ -8,13 +8,13 @@ All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9U
 
 Your team: group number 11
 
-  - Student 1: Othmane Ouahri (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: Othmane Ouahri ([@Leonidas-Vandis](https://github.com/Leonidas-Vandis))
 
-  - Student 2: Soufiane Ait El Aouad (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: Soufiane Ait El Aouad ([@eniafou](https://github.com/eniafou))
   
-  - Student 3: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 3: Anasse Essalih 
 
-  - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 4: Ayyoub Elkassimi
 
 ## Getting Started
 
